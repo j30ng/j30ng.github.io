@@ -1,1 +1,1 @@
-https://j30ng.com
+https://www.j30ng.com
