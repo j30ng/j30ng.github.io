@@ -4,6 +4,7 @@ layout: default
 
 # Jeonghyeon Lee
 - Based in Seoul, Korea
+- [https://www.linkedin.com/in/jeonghyeonlee](https://www.linkedin.com/in/jeonghyeonlee)
 - [https://github.com/j30ng](https://github.com/j30ng)
 - [j30nglee@gmail.com](mailto:j30nglee@gmail.com)
 
