@@ -37,7 +37,7 @@ I’m Jeonghyeon Lee, a software engineer who:
     - Java, Spring Framework, Backbone.js
 
 ## Education
-- Hanyang University | Seoul, Korea
+- Hanyang University \| Seoul, Korea
   - Mar 2011 - Dec 2012, Mar 2016 - Feb 2018
   - B.S. in Computer Science and Engineering, Cum Laude
 
