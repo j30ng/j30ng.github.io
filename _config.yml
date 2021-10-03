@@ -1,0 +1,6 @@
+baseurl: ""
+url: "https://j30ng.com"
+title: "j30ng.com"
+theme: jekyll-theme-primer
+author: "Jeonghyeon Lee"
+google_analytics: "UA-185615935-1"
